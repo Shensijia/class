@@ -15,3 +15,6 @@
 ***
 #链接
 [百度](http://baidu.com/ "Title") 一下，你就知道.
+[foo]: http://example.com/  "Optional Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
