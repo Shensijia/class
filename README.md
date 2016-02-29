@@ -1,11 +1,4 @@
-# class
-# 这是 H1 #
-## 这是 H2 ##
-###### 这是 H6 ###
-3. Bird
-1. McHale
-8. Parish
-*   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
+#自我介绍
+##*姓名：沈思佳
+##*学号：13112126
+##*兴趣爱好：喜欢睡觉，没有什么坏情绪能持续到一觉醒来后，如果有，那就再睡一觉！<(￣︶￣)>
