@@ -15,3 +15,5 @@ PS：最近很困扰的一件事,北京儿化音一般都加在最后，那为�
 ***
 #链接
 [百度](http://baidu.com/ "Title") 一下，你就知道.
+
+![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
