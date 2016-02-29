@@ -1,5 +1,6 @@
 # class
-int num;
-int x=1;
-int y=2;
-num=x+y;
+# 这是 H1
+
+## 这是 H2
+
+###### 这是 H6
