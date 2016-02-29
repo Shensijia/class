@@ -5,3 +5,7 @@
 3. Bird
 1. McHale
 8. Parish
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
